@@ -1,0 +1,51 @@
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.exe
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.deps.json
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.runtimeconfig.json
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.dll
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.pdb
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.Form1.resources
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.AssemblyInfo.cs
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.dll
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\refint\LaboratoryWork_5.dll
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.pdb
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.genruntimeconfig.cache
+C:\Users\HP\Desktop\ВЫШКА\Семестр 3\Компьютерная графика\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\ref\LaboratoryWork_5.dll
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.exe
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.deps.json
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.runtimeconfig.json
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.dll
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.pdb
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.csproj.AssemblyReference.cache
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.Form1.resources
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.csproj.GenerateResource.cache
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.AssemblyInfoInputs.cache
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.AssemblyInfo.cs
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.csproj.CoreCompileInputs.cache
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.dll
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\refint\LaboratoryWork_5.dll
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.pdb
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.genruntimeconfig.cache
+C:\Users\didvo\Desktop\Лобораторная работа 5\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\net6.0-windows\ref\LaboratoryWork_5.dll
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.exe
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.deps.json
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.runtimeconfig.json
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.dll
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\bin\Debug\net6.0-windows\LaboratoryWork_5.pdb
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.csproj.AssemblyReference.cache
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.Form1.resources
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.csproj.GenerateResource.cache
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.AssemblyInfoInputs.cache
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.AssemblyInfo.cs
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.csproj.CoreCompileInputs.cache
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.dll
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\obj\Debug\net6.0-windows\refint\LaboratoryWork_5.dll
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.pdb
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\obj\Debug\net6.0-windows\LaboratoryWork_5.genruntimeconfig.cache
+C:\ДВОРЯНЧИКОВ ДМИТРИЙ\АРХИВ\ОБРАЗОВАНИЕ\Самарский Университет\3_СЕМЕСТР\КОМПЬЮТЕРНАЯ ГРАФИКА\ЛАБОРАТОРНЫЕ\5 ЛАБА\LaboratoryWork_5\obj\Debug\net6.0-windows\ref\LaboratoryWork_5.dll
